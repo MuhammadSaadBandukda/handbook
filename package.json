@@ -17,7 +17,8 @@
     "gc": "ksor gc --instance instance.md"
   },
   "dependencies": {
-    "@panaversity/ksor": "0.0.60"
+    "@panaversity/ksor": "0.0.60",
+    "sharp": "^0.35.4"
   },
   "engines": {
     "node": ">=24"
