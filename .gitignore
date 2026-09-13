@@ -32,3 +32,5 @@ system/site/public/sims/
 !.env.example
 
 .DS_Store
+
+package-lock.json
