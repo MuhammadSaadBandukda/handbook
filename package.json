@@ -26,5 +26,8 @@
     "system/site",
     "system/gateways/*",
     "system/packages/*"
-  ]
+  ],
+  "optionalDependencies": {
+    "@esbuild/linux-x64": "^0.28.2"
+  }
 }
