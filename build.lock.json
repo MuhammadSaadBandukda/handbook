@@ -1,15 +1,15 @@
 {
   "format": 1,
-  "build_id": "sha256:6ab721e76dd0081cd2bcb70fed3625e6b654a7a79f4238f9cce0df442827de1b",
+  "build_id": "sha256:d3a1b3fe60f7aca8695690a87eef2f67387aef92e12b6d1aac23f42133a2acd3",
   "ksor_version": "0.0.60",
   "okf": {
     "version": "0.2",
     "commit": "ad30107c31c06aec8a7d5636e0d1058118604e6f",
     "spec_sha256": "26aa5da029278939f914e578107242d9607d4f2dc5fe153272b82f9ed1030101"
   },
-  "source_commit": null,
+  "source_commit": "86d30c74977ae0dcee61886fdfc0e1c24a9589cf",
   "dirty": true,
-  "as_of": "2026-09-13T11:48:05.221Z",
+  "as_of": "2026-09-13T16:13:18.792Z",
   "drafts": "hidden",
   "instance_sha256": "5f3419785e0bf40ef597f7177f490f4e04780bda9d80216ae85244e3d1897199",
   "policy_sha256": "384f6c196502e5ac26ab53e88905b1da39e99c488ab32c8ebe9f05a532f06707",
@@ -38,12 +38,14 @@
     },
     {
       "path": "refund-policy.md",
-      "sha256": "de7ebeeeeb9302c7936f8ccb7c1705c81ff4740d387d20eeafc4be8b43f45d01",
-      "status": "draft",
+      "sha256": "fb68fe10acefbae4e1ea0edf402aafa66fefdc37dacd959b01044966ee8e1dc9",
+      "status": "stable",
       "audience": [
         "public"
       ],
-      "admitted": []
+      "admitted": [
+        "public"
+      ]
     },
     {
       "path": "surfaces/for-agents.md",
@@ -110,8 +112,8 @@
   "bundles": [
     {
       "viewer": "public",
-      "sha256": "fb45dbe7e38f34b1791a68437a139ebf1c74119049335a8234132cac056a0d17",
-      "files": 8
+      "sha256": "0b1e2c598cc1764c283880da1126c332361e236f5fe35383ad822c81afe042b5",
+      "files": 9
     }
   ]
 }
