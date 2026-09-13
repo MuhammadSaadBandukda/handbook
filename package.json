@@ -29,6 +29,7 @@
     "system/packages/*"
   ],
   "optionalDependencies": {
-    "@esbuild/linux-x64": "^0.28.2"
+    "@esbuild/linux-x64": "^0.28.2",
+    "lightningcss-linux-x64-gnu": "^1.32.0"
   }
 }
