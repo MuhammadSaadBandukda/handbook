@@ -6,7 +6,7 @@ type: policy
 generated: { by: "process:antigravity", at: "2026-09-13T16:05:21Z" }
 ksor:
   audience: [public]
-  approval: { by: human:you, at: "2026-09-13T16:05:21Z" }
+  approval: { by: human:saleem, at: "2026-09-13T16:05:21Z" }
 sources:
   - id: owner-instruction-2026-09-13
     title: Conversation with owner

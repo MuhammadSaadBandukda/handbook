@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "build_id": "sha256:d3a1b3fe60f7aca8695690a87eef2f67387aef92e12b6d1aac23f42133a2acd3",
+  "build_id": "sha256:30f9687a380dc39aa16794a4c93d68e0441983354f5becc7a5436bb70d8dcfc5",
   "ksor_version": "0.0.60",
   "okf": {
     "version": "0.2",
@@ -8,12 +8,12 @@
     "spec_sha256": "26aa5da029278939f914e578107242d9607d4f2dc5fe153272b82f9ed1030101"
   },
   "source_commit": "9e6b916af00942da400bac0e3f313a7c3f2aeb71",
-  "dirty": false,
-  "as_of": "2026-09-13T16:28:59.282Z",
+  "dirty": true,
+  "as_of": "2026-09-13T18:07:46.634Z",
   "drafts": "hidden",
-  "instance_sha256": "5f3419785e0bf40ef597f7177f490f4e04780bda9d80216ae85244e3d1897199",
-  "policy_sha256": "384f6c196502e5ac26ab53e88905b1da39e99c488ab32c8ebe9f05a532f06707",
-  "people_sha256": "01755a5e3cf0b00cd93a6844a765547fff8c5e22e378098193e13044a9bb4721",
+  "instance_sha256": "d9f25c66656fec9808378dcb60e81b952970fccef2cd02fe226b3f4b7a3a111d",
+  "policy_sha256": "db0c786f7d80f43643ec8ecbfabbef1520ce32a2093dde0b9e5706429dfab806",
+  "people_sha256": "441c03d90c7c5af0ccb1ade2b9a0cee27938080ec9b8ccea61929e652fe8e73b",
   "ledger_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "ledger_entries": [],
   "audiences": {
@@ -38,7 +38,7 @@
     },
     {
       "path": "refund-policy.md",
-      "sha256": "fb68fe10acefbae4e1ea0edf402aafa66fefdc37dacd959b01044966ee8e1dc9",
+      "sha256": "a44a54c0552aa26098e02dd8067c7c3c02183b0f5d5d6956a020203551d1cc44",
       "status": "stable",
       "audience": [
         "public"
@@ -102,7 +102,7 @@
   "indexes": [
     {
       "path": "index.md",
-      "sha256": "f3a3aa365c64035f6c23b69c22c52870f3a9e47408e354cac38748bcad6323f1"
+      "sha256": "8effee289dbe1c0aec9c8cb273145e274d396d0bdf69a6d5a61efbf1a766f142"
     },
     {
       "path": "surfaces/index.md",
@@ -112,7 +112,7 @@
   "bundles": [
     {
       "viewer": "public",
-      "sha256": "0b1e2c598cc1764c283880da1126c332361e236f5fe35383ad822c81afe042b5",
+      "sha256": "461f0cd260fec886dea07363a1d5c780e48847db9862ed4f6dc8a5b835a39260",
       "files": 9
     }
   ]
